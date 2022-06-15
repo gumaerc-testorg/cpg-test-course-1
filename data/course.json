@@ -1,0 +1,28 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "cpg-test-course-1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "cpg-test-course-1"
+  },
+  "course_title": "cpg-test-course-1",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "cpg-test-course-1"
+  },
+  "learning_resource_types": [],
+  "site_uid": "5aaaed72-462c-49fa-b5d5-ceff238b56e0"
+}
